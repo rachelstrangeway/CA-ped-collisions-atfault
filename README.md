@@ -8,9 +8,9 @@ Poor pedestrian safety in the United States is a pervasive and worsening issue. 
 <img width="334" alt="US Traffic Fatalities by Mode" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/63a42916-2fea-4dff-b8bf-de2b6404102e">
 </p>
 
-*<p style="text-align:center">
-FARS Recorded Traffic Fatalities (NHTSA, 2020)*
-</p>
+
+*FARS Recorded Traffic Fatalities (NHTSA, 2020)*
+
 
 There are many facets to improving pedestrian safety and minimizing the burden of injury or death on victims and their families. While much of the focus is rightfully on the need to prevent collisions from happening in the first place, or reducing their severity if they do happen, events that happen after the collision can also have lasting impacts on victims. Namely, the at fault determination of a collision can have material, emotional, and cultural impacts on individuals and communities.
 
@@ -22,9 +22,8 @@ California is considered a [comparative at fault](https://www.investopedia.com/t
 <img width="193" alt="Primary Collision Factor" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/09a1a69d-42d0-4b39-9e61-62d4e6da56eb">
 </p>
 
-*<p style="text-align:center">
-Primary Collision Factor Field in CHP Form 555 (California Highway Patrol, 2012)*
-</p>
+*Primary Collision Factor Field in CHP Form 555 (California Highway Patrol, 2012)*
+
 
 ### Research Questions
 The following analysis assesses the rate of pedestrian at fault determinations in an effort to understand geographic differences and disparities of this rate. The following research questions will be addressed:
@@ -36,13 +35,11 @@ The following analysis assesses the rate of pedestrian at fault determinations i
 
 In this report, the "pedestrian at fault rate" is defined as follows:
 
-***<p style="text-align:center">
-Pedestrian at Fault Rate***
-</p>
+***Pedestrian at Fault Rate =***
+
   
-*<p style="text-align:center">
-The number of pedestrian-involved crashes in which the pedestrian is cited as at-fault divided by the number of pedestrian-involved severe and fatal crashes*
-</p>
+*The number of pedestrian-involved crashes in which the pedestrian is cited as at-fault divided by the number of pedestrian-involved severe and fatal crashes*
+
 
 In this analysis, only severe and fatal collisions were chosen since these types of collisions have the lowest rates of underreporting as well as the greatest burden on victims and communities. The key cities analyzed are a combination of the most populous cities in California, as well as those with high or low rates of pedestrian collisions per capita. 
 
@@ -74,9 +71,8 @@ The following charts show this data further broken down by city, party at fault,
 <img width="2000" alt="Severe Collision at Fault Rate by City" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/8bdd4d54-4a28-41dd-b87b-199d4cedece1">
 </p>
 
-*<p style="text-align:center">
-Top: Fatal Collisions by city, party at fault, and severity. Bottom: Severe Collisions by city, party at fault, and severity. (SWITRS TIMS 2012-2021, author's own calculations)*
-</p>
+*Top: Fatal Collisions by city, party at fault, and severity. Bottom: Severe Collisions by city, party at fault, and severity. (SWITRS TIMS 2012-2021, author's own calculations)*
+
 
 Here, there are some noteable patterns. First, we can see that in almost every city (except for Berkeley), Pedestrians (indicated by the grey bar) are found at fault at a rate higher than any other mode in pedestrian-involved collisions. In the case of the city of Thousand Oaks, while only 11 severe and fatal collisions occured from 2012-2021, pedestrians were found at fault for 100% of those crashes. 
 
@@ -91,9 +87,7 @@ In order to investigate the geographic variation across cities further, linear r
 <img width="400" alt="Population Density At Fault Rate Regression" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/4fa3d796-c599-487d-8a45-ae8d5f53eefd">
 <img width="400" alt="Crash Rate At Fault Rate Regression" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/5f383c3c-0f58-4e3b-963f-b132327f7471">
 
-*<p style="text-align:center">
-First: Walk Score and At Fault Rate Regression. Second: Mode Share and At Fault Rate Regression. Third: Population Density and At Fault Rate Regression. Fourth: Crash Rate and At Fault Rate Regression. (SWITRS TIMS 2012-2021, author's own calculations)*
-</p>
+*First: Walk Score and At Fault Rate Regression. Second: Mode Share and At Fault Rate Regression. Third: Population Density and At Fault Rate Regression. Fourth: Crash Rate and At Fault Rate Regression. (SWITRS TIMS 2012-2021, author's own calculations)*
 
 Across the sample of 15 cities, pedestrian at-fault rate was found to be most highly correlated to city walk score (R<sup>2</sup> = 0.616, p value = 0.001). At-fault rate was also highly correlated to walking + transit commute mode share (R<sup>2</sup> = 0.567, p value = 0.001). There was slightly lower correlation between at fault rates and  population density (R<sup>2</sup> = 0.385, p value = 0.014 ). The at-fault rate was found to have the lowest correlation to overall pedestrian crash rate (R<sup>2</sup> 0.138= , p value = 0.174). This indicates that higher pedestrian volume and walkability could be correlated with better pedestrian infrastructure or a higher awareness of pedestrians which could influence how fault is determined in a crash. Interestingly, there doesn't appear to be a correlation between the at fault rate and overall pedestrian safety, indicated these two issues are necessarily associated with eachother. 
 
@@ -103,9 +97,7 @@ Lastly, major metropolitan areas were spatially analyzed in order to indentify l
 <img width="400" alt="At Fault Rate Hexbins Los Angeles" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/80a507b0-df39-41cf-bf09-8b88e03d1f8d">
 <img width="400" alt="At Fault Rate Hexbins Bay Area" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/bd22e7a2-60d9-4df0-9175-bbe757fae53a">
 
-*<p style="text-align:center">
-Top: Pedestrian At Fault Collisions by Hexbins in Los Angeles. Bottom: Pedestrian At Fault Collisions by Hexbins in Los Angeles. (SWITRS TIMS 2012-2021, author's own calculations)*
-</p>
+*Top: Pedestrian At Fault Collisions by Hexbins in Los Angeles. Bottom: Pedestrian At Fault Collisions by Hexbins in Los Angeles. (SWITRS TIMS 2012-2021, author's own calculations)*
 
 These maps show that the highest number of pedestrian at fault collisions tend to cluster around downtown areas. In Los Angeles, Downtown and South LA have the highest rates of pedestrian at fault collisions. In the Bay Area, the highest rates are in Downtown San Francisco, but there are other less extreme increases in these collisions in West and East Oakland as well as Downtown San Jose. Knowing the locations where pedestrian-at-fault collisions are most clustered can help guide planners and law enforcement in order to understand why these disparities are occuring. 
 
