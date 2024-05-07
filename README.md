@@ -4,11 +4,11 @@
 
 Poor pedestrian safety in the United States is a pervasive and worsening issue. In the past few decades, there has been an overall decrease in road fatalities due to improved vehicle safety design and seatbelt regulations. However, pedestrian fatalities have risen, and currently make up a disproportionate share of road fatalities with respect to mode share both nationally and in California. 
 
-<p style="text-align: center;">
+<p style="text-align:center">
 <img width="334" alt="US Traffic Fatalities by Mode" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/63a42916-2fea-4dff-b8bf-de2b6404102e">
 </p>
 
-*<p style="text-align: center;">
+*<p style="text-align:center">
 FARS Recorded Traffic Fatalities (NHTSA, 2020)*
 </p>
 
@@ -18,11 +18,11 @@ There are many facets to improving pedestrian safety and minimizing the burden o
 
 California is considered a [comparative at fault](https://www.investopedia.com/terms/c/comparative-negligence.asp#:~:text=Comparative%20negligence%20states%20that%20when,and%20pay%20insurance%20claims%20accordingly.) state. This means that if two parties are involved in a collision and Party A is found to be 70% responsible while Party B is 30% responsible, Party B is still financially liable for 30% of overall damages. This liability share is determined in an insurance claim by a few different factors, including party and witness interviews, photo evidence, and any on-file police or individual reports, which must include a Primary Collision Factor and cited party at fault. There are several implications of the at fault determination on a police report – it can determine if the collision will appear on your driver record, can cause insurance rates to increase, may be used as evidence in a personal injury lawsuit, and can be factored into an insurance adjuster’s liability determination. 
 
-<p style="text-align: center;">
+<p style="text-align:center">
 <img width="193" alt="Primary Collision Factor" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/09a1a69d-42d0-4b39-9e61-62d4e6da56eb">
 </p>
 
-*<p style="text-align: center;">
+*<p style="text-align:center">
 Primary Collision Factor Field in CHP Form 555 (California Highway Patrol, 2012)*
 </p>
 
@@ -36,11 +36,11 @@ The following analysis assesses the rate of pedestrian at fault determinations i
 
 In this report, the "pedestrian at fault rate" is defined as follows:
 
-***<p style="text-align: center;">
+***<p style="text-align:center">
 Pedestrian at Fault Rate***
 </p>
   
-*<p style="text-align: center;">
+*<p style="text-align:center">
 The number of pedestrian-involved crashes in which the pedestrian is cited as at-fault divided by the number of pedestrian-involved severe and fatal crashes*
 </p>
 
@@ -66,15 +66,15 @@ This is noteable, considering that in nearly all of these crashes, the pedestria
 
 The following charts show this data further broken down by city, party at fault, and crash severity:
 
-<p style="text-align: center;">
+<p style="text-align:center">
 <img width="2000" alt="Fatal Collision at Fault Rate by City" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/ce95e70b-80b1-46eb-bb22-374d9603ea26">
 </p>
 
-<p style="text-align: center;">
+<p style="text-align:center">
 <img width="2000" alt="Severe Collision at Fault Rate by City" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/8bdd4d54-4a28-41dd-b87b-199d4cedece1">
 </p>
 
-*<p align="center">
+*<p style="text-align:center">
 Top: Fatal Collisions by city, party at fault, and severity. Bottom: Severe Collisions by city, party at fault, and severity. (SWITRS TIMS 2012-2021, author's own calculations)*
 </p>
 
@@ -91,7 +91,7 @@ In order to investigate the geographic variation across cities further, linear r
 <img width="400" alt="Population Density At Fault Rate Regression" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/4fa3d796-c599-487d-8a45-ae8d5f53eefd">
 <img width="400" alt="Crash Rate At Fault Rate Regression" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/5f383c3c-0f58-4e3b-963f-b132327f7471">
 
-*<p style="text-align: center;">
+*<p style="text-align:center">
 First: Walk Score and At Fault Rate Regression. Second: Mode Share and At Fault Rate Regression. Third: Population Density and At Fault Rate Regression. Fourth: Crash Rate and At Fault Rate Regression. (SWITRS TIMS 2012-2021, author's own calculations)*
 </p>
 
@@ -103,7 +103,7 @@ Lastly, major metropolitan areas were spatially analyzed in order to indentify l
 <img width="400" alt="At Fault Rate Hexbins Los Angeles" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/80a507b0-df39-41cf-bf09-8b88e03d1f8d">
 <img width="400" alt="At Fault Rate Hexbins Bay Area" src="https://github.com/rachelstrangeway/CA-ped-collisions-atfault/assets/157441987/bd22e7a2-60d9-4df0-9175-bbe757fae53a">
 
-*<p style="text-align: center;">
+*<p style="text-align:center">
 Top: Pedestrian At Fault Collisions by Hexbins in Los Angeles. Bottom: Pedestrian At Fault Collisions by Hexbins in Los Angeles. (SWITRS TIMS 2012-2021, author's own calculations)*
 </p>
 
